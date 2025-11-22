@@ -64,7 +64,7 @@ Este projeto apresenta uma solução inovadora de **monitoramento ambiental inte
 
 ### Diagrama do Circuito
 
-![Circuito do Projeto - ESP32 com DHT22 e LDR](circuit.png)
+![Circuito do Projeto - ESP32 com DHT22 e LDR](images/circuit.png)
 
 *Diagrama mostrando as conexões entre ESP32, sensor DHT22 e módulo LDR*
 
