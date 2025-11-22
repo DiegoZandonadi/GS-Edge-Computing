@@ -236,4 +236,7 @@ Diego Zandonadi RM 561488
 Davi Alves Dos Santos RM 566279
 ---
 
+## Link do projeto 
+- https://wokwi.com/projects/448267650463565825
+
 **O futuro do trabalho já começou.** 🚀
